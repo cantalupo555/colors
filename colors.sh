@@ -1,4 +1,5 @@
 #!/bin/bash
+#cantalupo555
 
 corPadrao="\033[0m"
 preto="\033[0;30m"
